@@ -37,3 +37,8 @@ The main report page is `sales_dashboard.jpg` and includes:
   - Sales by State displayed on a filled map for geographic performance tracking.
 - Region filter buttons for Central, East, South, and West to quickly slice the entire page by region.
 
+## Dashboard image
+
+### sales_dashboard
+
+![sales_dashboard](sales_dashboard.jpg)
