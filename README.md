@@ -41,4 +41,4 @@ The main report page is `sales_dashboard.jpg` and includes:
 
 ### sales_dashboard
 
-![sales_dashboard](sales_dashboard.jpg)
+![sales_dashboard](sales_dashboard.png)
